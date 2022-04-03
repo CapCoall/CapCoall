@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CapCoall
 - 🔊 My name is Emre Yetişkin , I'm from Turkey
-- 👀 I’m interested in web design , robotic and every exciting project
+- 👀 I’m interested in game development , web design 
 - 🌱 I’m currently learning python , c# , html , css , java , php
 - 💞️ I’m looking to collaborate on everything because ı always need help 
 - 📫 So if you want to help me , my email address is "CapCoall@gmail.com" 
